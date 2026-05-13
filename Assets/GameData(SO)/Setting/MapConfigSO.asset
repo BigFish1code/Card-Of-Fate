@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c031a982c0f0147a507e40686cef7d, type: 3}
+  m_Name: MapConfigSO
+  m_EditorClassIdentifier: 
+  roomBluePrints:
+  - Low: 2
+    High: 5
+    RoomType: 1
+  - Low: 3
+    High: 5
+    RoomType: 3
+  - Low: 2
+    High: 4
+    RoomType: 2
+  - Low: 2
+    High: 4
+    RoomType: 10
+  - Low: 3
+    High: 5
+    RoomType: 26
+  - Low: 1
+    High: 3
+    RoomType: 16
+  - Low: 1
+    High: 1
+    RoomType: 32

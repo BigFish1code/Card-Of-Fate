@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 9beed7721eba46247a40308889a14730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2179023911476486635
+    second: Defect_0
+  - first:
+      213: 4842765569859813261
+    second: Defect_1
+  - first:
+      213: -5563874117251689196
+    second: Defect_2
+  - first:
+      213: -1656556622600026426
+    second: Defect_3
+  - first:
+      213: 2769921834222108416
+    second: Defect_4
+  - first:
+      213: -8287972015477767634
+    second: Defect_5
+  - first:
+      213: -8777498128107862012
+    second: Defect_6
+  - first:
+      213: 2449227402096107197
+    second: Defect_7
+  - first:
+      213: -7020391845543525297
+    second: Defect_8
+  - first:
+      213: 5500679562553553235
+    second: Defect_9
+  - first:
+      213: -812957324634458276
+    second: Defect_10
+  - first:
+      213: -853184707691155677
+    second: Defect_11
+  - first:
+      213: -559040770424881221
+    second: Defect_12
+  - first:
+      213: -8140021845150855906
+    second: Defect_13
+  - first:
+      213: 1365015700985904441
+    second: Defect_14
+  - first:
+      213: -1269813933124732702
+    second: Defect_15
+  - first:
+      213: -9082587840381299602
+    second: Defect_16
+  - first:
+      213: -7334953785342452752
+    second: Defect_17
+  - first:
+      213: -6007667936313393398
+    second: Defect_18
+  - first:
+      213: -4917904689673935813
+    second: Defect_19
+  - first:
+      213: -3004249411978307560
+    second: Defect_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Defect_0
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1453
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e9c572c4d82c1e0800000000000000
+      internalID: -2179023911476486635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_1
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1524
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f7cf1b0a5f43340800000000000000
+      internalID: 4842765569859813261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_2
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1506
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415193218f529c2b0800000000000000
+      internalID: -5563874117251689196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1225
+        width: 223
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ca9f478ab209e0800000000000000
+      internalID: -1656556622600026426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_4
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 380
+        width: 842
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f38688b3db07620800000000000000
+      internalID: 2769921834222108416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_5
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1238
+        width: 315
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c11d0d553bfc80800000000000000
+      internalID: -8287972015477767634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_6
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1236
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408897925ff003680800000000000000
+      internalID: -8777498128107862012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_7
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1206
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe571c78576df120800000000000000
+      internalID: 2449227402096107197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1159
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444456efce829e90800000000000000
+      internalID: -7020391845543525297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1148
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35171451be6565c40800000000000000
+      internalID: 5500679562553553235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_10
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 932
+        width: 266
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c577c97de9bc7b4f0800000000000000
+      internalID: -812957324634458276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1034
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe54a5701e824f0800000000000000
+      internalID: -853184707691155677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1059
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf3dd79163ed38f0800000000000000
+      internalID: -559040770424881221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 763
+        width: 249
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0ddf6245d80f80800000000000000
+      internalID: -8140021845150855906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_14
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 894
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d78124c8281f210800000000000000
+      internalID: 1365015700985904441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_15
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 788
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e83241a4f6b06ee0800000000000000
+      internalID: -1269813933124732702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 731
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e645ac41b7a24f180800000000000000
+      internalID: -9082587840381299602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 687
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb91ccf462053a90800000000000000
+      internalID: -7334953785342452752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_18
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 671
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f398787d970aca0800000000000000
+      internalID: -6007667936313393398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_19
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 583
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34e1ccadb710cbb0800000000000000
+      internalID: -4917904689673935813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defect_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 456
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8185b56b313ce46d0800000000000000
+      internalID: -3004249411978307560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Defect_0: -2179023911476486635
+      Defect_1: 4842765569859813261
+      Defect_10: -812957324634458276
+      Defect_11: -853184707691155677
+      Defect_12: -559040770424881221
+      Defect_13: -8140021845150855906
+      Defect_14: 1365015700985904441
+      Defect_15: -1269813933124732702
+      Defect_16: -9082587840381299602
+      Defect_17: -7334953785342452752
+      Defect_18: -6007667936313393398
+      Defect_19: -4917904689673935813
+      Defect_2: -5563874117251689196
+      Defect_20: -3004249411978307560
+      Defect_3: -1656556622600026426
+      Defect_4: 2769921834222108416
+      Defect_5: -8287972015477767634
+      Defect_6: -8777498128107862012
+      Defect_7: 2449227402096107197
+      Defect_8: -7020391845543525297
+      Defect_9: 5500679562553553235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

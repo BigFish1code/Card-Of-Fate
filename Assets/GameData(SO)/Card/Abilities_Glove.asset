@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f740fc4c8d395d4796fbe70775a0c78, type: 3}
+  m_Name: Abilities_Glove
+  m_EditorClassIdentifier: 
+  cardname: Glove
+  cardpic: {fileID: 21300000, guid: ab2c0effa4522104dbdb381ab0b16a7b, type: 3}
+  cardcost: 2
+  cardtype: 2
+  carddescription: + 50% DMG
+  effects:
+  - {fileID: 11400000, guid: a78563b268f5d7847b2ff8aa550fb896, type: 2}

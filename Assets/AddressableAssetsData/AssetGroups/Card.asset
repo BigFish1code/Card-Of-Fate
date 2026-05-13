@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Card
+  m_EditorClassIdentifier: 
+  m_GroupName: Card
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 97b8339c08b69034998d4d4a7c5e2340
+  m_SerializeEntries:
+  - m_GUID: b0771a7f735938a47945a5a7046ed88c
+    m_Address: Defense_Cloth
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0eb97ee7dcde50941b565f9b55ea49ec
+    m_Address: Attack_Sword
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce5482498ee03ca4790a8ef417828596
+    m_Address: Abilities_Glove
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e51199b412939f844b4b9c440cf7c773
+    m_Address: Abilities_Apple
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc04e11838a9f4a4e99772cc624e90fb
+    m_Address: Abilities_Draw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6506c1620841d44f8c62555e98943c3
+    m_Address: Attack_HollyMagic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardData
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bc9b0d43ef8c7cf4b8ed5b94005030d3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bb9d5f640361f1340b74c457fe01b0fb, type: 2}
+    - {fileID: 11400000, guid: 59e5988e4a2ca1342b5b67dce02c6a7b, type: 2}
